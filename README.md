@@ -1,8 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Gooreum&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Swift%20%C2%B7%20TypeScript%20%C2%B7%20AI%20Agent%20Tooling&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Gooreum&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Swift%20%7C%20TypeScript%20%7C%20AI%20Agent%20Tooling&descAlignY=58&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=iOS+%EC%95%B1%EC%9D%84+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;AI+%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8+%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0+%EB%8F%84%EA%B5%AC%EB%A5%BC+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;%EB%A7%A4%EC%9D%BC+%ED%95%98%EB%82%98%EC%94%A9+%EB%A7%8C%EB%93%A4%EA%B3%A0+%EA%B8%B0%EB%A1%9D%ED%95%A9%EB%8B%88%EB%8B%A4)](https://git.io/typing-svg)
 
 </div>
 
